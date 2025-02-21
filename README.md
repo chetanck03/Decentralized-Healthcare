@@ -15,67 +15,67 @@ Development Environment: Node.js<br>
 Screenshots : 
 
 HomePage :
-<img width="1403" alt="Screenshot 2024-05-26 at 9 45 21 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/2ba73782-e348-45f3-94fd-a3a7ba52db5c">
+<img width="1403" alt="img" src="./public/img/home.png">
 
-<img width="930" alt="Screenshot 2024-05-26 at 9 52 13 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ae69f2bf-c90f-470d-8b79-ceae8fd99c39">
+<img width="930" alt="doctor" src="./public/img/doctor.png">
 
-<img width="953" alt="Screenshot 2024-05-26 at 9 54 02 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/fc3cc94b-479e-48a0-a5e3-6019c39320cc">
+<img width="953" alt="patient" src="./public/img/patient.png">
 
-<img width="711" alt="Screenshot 2024-05-26 at 9 56 29 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/8d4e5c04-f277-441e-bf6f-02bcc968580d">
+<img width="711" alt="diagonistic" src="./public/img/diagnostic.png">
 
 
 
 
 Login :
 
-<img width="778" alt="Screenshot 2024-05-26 at 9 57 41 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/0cadee31-7af2-4fdf-a3bb-af8ac937534e">
+<img width="778" alt="login" src="./public/img/login.png">
 <br>
 <br><br>
 Patient Side : 
 <br>
 <br><br>
 
-<img width="1228" alt="Screenshot 2024-05-26 at 10 07 59 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/64b725c9-061f-4cea-a630-1602666dd374">
+<img width="1228" alt="patient-dashboard" src="./public/img/patient-dashboard.png">
 
-<img width="1139" alt="Screenshot 2024-05-26 at 10 07 11 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/ce4e1dd6-e2bd-48f9-b185-0350a2fa53ae">
+<img width="1139" alt="record" src="./public/img/records.png">
 
-<img width="1392" alt="Screenshot 2024-05-26 at 10 08 20 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/8801fd68-f1b4-48ab-b646-254eb9391b5e">
+<img width="1392" alt="records-view" src="./public/img/record-view.png">
 
 
-<img width="850" alt="Screenshot 2024-05-26 at 10 08 56 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/2e17c358-89b6-4c74-afec-6f07db6515d4">
+<img width="850" alt="xray" src="./public/img/xray.png">
 
-<img width="1025" alt="Screenshot 2024-05-26 at 10 11 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/98283e49-c4cc-41ba-95b0-1a2e1afbff77">
+<img width="1025" alt="doctor-permission" src="./public/img/doctor-permission.png">
 
 <br>
 <br><br>
 Doctor Side :
 <br>
 <br><br>
-<img width="817" alt="Screenshot 2024-05-26 at 10 33 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/6761f2ab-7133-424a-b997-a5ca4bca2553">
+<img width="817" alt="doctor-dash" src="./public/img/doctor-dash.png">
 <br><br>
-<img width="1427" alt="Screenshot 2024-05-26 at 10 27 54 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/d4c03b71-916c-4fb5-8d37-34e5244b7ea0">
+<img width="1427" alt="patenit-list" src="./public/img/list-patint.png">
 <br><br>
-<img width="1363" alt="Screenshot 2024-05-26 at 10 28 16 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/e328184c-f7b8-422e-9945-58820179cc7b">
+<img width="1363" alt="patient-profile" src="./public/img/patient-profile.png">
 <br><br>
-<img width="671" alt="Screenshot 2024-05-26 at 10 29 31 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/1572acf6-fd11-4044-9075-f8604de5657a">
+<img width="671" alt="consultancy" src="./public/img/consultancy.png">
 <br><br>
 <br><br>
 Diagnostic Side :
 <br>
-<img width="808" alt="Screenshot 2024-05-26 at 10 48 42 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/f66e9981-6b98-483c-bf25-560bc13f5fc0">
+<img width="808" alt="dai-dash" src="./public/img/dai-dash.png">
 
 <br>
 
-<img width="761" alt="Screenshot 2024-05-26 at 10 43 57 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/f51db8b9-95d9-418e-ba42-f38e397de263">
+<img width="761" alt="lab-report" src="./public/img/lab-report.png">
 
 <br><br>
 Report has been reflected in record viewer so that both patient and doctor can see : 
 <br>
 <br>
 
-<img width="1395" alt="Screenshot 2024-05-26 at 10 44 59 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/b5549f81-7dd3-4e2c-8514-b44ed045fec2">
+<img width="1395" alt="record-viewer" src="./public/img/record-viewer.png">
 <br><br>
-<img width="841" alt="Screenshot 2024-05-26 at 10 45 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/c3b6c074-1fc2-4f92-a2ec-f4a3b6b0d4b2">
+<img width="841" alt="sample-report" src="./public/img/sample-report.png">
 
 ## For Full working project 
 
@@ -121,10 +121,11 @@ npm install -g truffle
 
 8.Compile and migrate Contracts
  ```
+ cd src
  truffle compile
  truffle migrate
  ```
-9. Run Server
+9.Run Server
 
 ```
 npm start
